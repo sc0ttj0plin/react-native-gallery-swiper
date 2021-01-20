@@ -21,10 +21,9 @@
     "photo",
     "ios",
     "android",
-    "LueHsoft",
-    "LueH LABS",
-    "Lue Hang",
-    "luehang"
+    "luehang",
+    "loading",
+    "onLoad"
   ],
   "homepage": "https://github.com/sc0ttj0plin/react-native-gallery-swiper",
   "repository": {
@@ -86,5 +85,5 @@
     "lint": "./node_modules/.bin/eslint src/",
     "test": "jest"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
